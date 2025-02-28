@@ -123,7 +123,7 @@ namespace Game
             this.FrameworkInit();
 
             // 调用游戏逻辑初始化方法
-            this.GameLogicInit();
+            //this.GameLogicInit();
 
             // 停止计时
             stopWatch.Stop();

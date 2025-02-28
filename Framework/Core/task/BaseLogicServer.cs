@@ -1,5 +1,4 @@
-﻿using Enyim.Caching.Configuration;
-using Framework.Core.Net;
+﻿using Framework.Core.Net;
 using Framework.Core.Serializer;
 using Framework.Core.task;
 using Framework.Core.Utils;
